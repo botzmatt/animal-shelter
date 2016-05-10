@@ -48,6 +48,7 @@ button {
   margin: 15px;
 }
 
-li {
+.column ul li{
   padding: 0 2px;
+  list-style-type: square;
 }
